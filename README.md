@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Conner Howard!
+- 👀 I’m interested in Game Development!
+- 🌱 I’m always learning more about everything I can!
+- 💞️ I’m looking to collaborate on Game Dev teams
+- 📫 How to reach me: connerjhoward@gmail.com
